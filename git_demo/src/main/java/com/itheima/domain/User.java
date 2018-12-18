@@ -8,7 +8,7 @@ public class User {
 
     private String name;
 
-    private Integer age;  // 年
+    private Integer age;
 
     public Integer getAge() {
         return age;
